@@ -51,8 +51,8 @@ var feifei = {
 			$.ajaxSetup({ 
 				cache: true 
 			});
-			$("<link>").attr({ rel: "stylesheet",type: "text/css",href: "https://cdn.bootcss.com/flickity/2.0.9/flickity.min.css"}).appendTo("head");
-			$.getScript("https://cdn.bootcss.com/flickity/2.0.9/flickity.pkgd.min.js", function(response, status) {
+			$("<link>").attr({ rel: "stylesheet",type: "text/css",href: "https://cdn.staticfile.org/flickity/2.1.2/flickity.min.css"}).appendTo("head");
+			$.getScript("https://cdn.staticfile.org/flickity/2.1.2/flickity.pkgd.min.js\n", function(response, status) {
 				$($id).flickity({
 					cellAlign: 'left',
 					freeScroll: true,

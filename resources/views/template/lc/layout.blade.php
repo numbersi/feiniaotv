@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="/public/static/lc/css/stui_block.css" type="text/css" />
 	<link rel="stylesheet" href="/public/static/lc/css/stui_default.css" type="text/css" />
 	<link rel="stylesheet" href="/public/static/lc/css/stui_custom.css" type="text/css" />
-	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
 	<script type="text/javascript" src="/public/static/lc/js/stui_default.js"></script>
 	<script type="text/javascript" src="/public/static/lc/js/bootstrap.min.js"></script>
     @section('other')

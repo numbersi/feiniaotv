@@ -40,7 +40,7 @@ $("#首页").attr("class","active");
 		<title>幻灯片测试</title>
 <!--<link href="/public/static/hd/home.css" rel="stylesheet" type="text/css" />
 <link href="/public/static/hd/v280_head.css" rel="stylesheet" type="text/css" />-->
-<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
 <!--<script src="/public/static/hd/jquery.lazyload.js" type="text/javascript" language="javascript"></script>
 <script src="/public/static/hd/jquery.autocomplete.js" type="text/javascript" language="javascript"></script>
 <script src="/public/static/hd/tpl.js" type="text/javascript" language="javascript"></script>-->
